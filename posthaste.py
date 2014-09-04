@@ -34,8 +34,6 @@ import time
 
 __version__ = '0.2.2'
 
-FONTS_REGEX = r'.*\.(eot|otf|woff|ttf)$'
-
 HEADER_PAIR_FORMAT = '"<file_name_regex>,<header_name>:<header_value>"'
 
 
